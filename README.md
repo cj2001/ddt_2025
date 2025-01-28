@@ -11,7 +11,7 @@ This repository contains my content for the two talks I gave at Data Day Texas, 
 It also contains the notes from the two Sunday informal sessions I led:
 
 - ["Freelancing Unlocked: Mastering the Art of Independent Data Science"](discussion_notes/freelancing.md)
-- ["Navigating the Challenges of Deploying Generative AI in the Real World"]()
+- ["Navigating the Challenges of Deploying Generative AI in the Real World"](discussion_notes/productionalizing_gen_ai.md)
 
 For additional freelancing content, I would encourage you to check out my blog posts on the subject below:
 
