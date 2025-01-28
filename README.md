@@ -1,12 +1,17 @@
 # Data Day Texas, 2025
 ### Clair J. Sullivan, PhD
 ### clair@clairsullivan.com
-#### Last updated: 2025-01-27
+#### Last updated: 2025-01-28
 
 This repository contains my content for the two talks I gave at Data Day Texas, 2025:
 
 - "Empowering Change: Building and Sustaining a Data Culture from the Ground Up" (located in `data_culture_talk/`)
--  "From Office Cubicles to Independent Success: How to Create a Career and Thrive as a Freelance Data Scientist" (located in `freelancing_talk/`)
+- "From Office Cubicles to Independent Success: How to Create a Career and Thrive as a Freelance Data Scientist" (located in `freelancing_talk/`)
+
+It also contains the notes from the two Sunday informal sessions I led:
+
+- ["Freelancing Unlocked: Mastering the Art of Independent Data Science"](discussion_notes/freelancing.md)
+- ["Navigating the Challenges of Deploying Generative AI in the Real World"]()
 
 For additional freelancing content, I would encourage you to check out my blog posts on the subject below:
 
